@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swiftyjojo
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning mobile app development with Swift & SwiftUI
-- 💞️ I’m looking to collaborate on iOS projects
+- 👀 I’m a Software Developer
+- 🌱 I develop apps for iOS & MacOS with Swift & SwiftUI
+- 💞️ I’m looking to collaborate on iOS & MacOS projects
 - 📫 How to reach me: @SwiftyJojo on Twitter
 
 <!---
